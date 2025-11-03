@@ -23,5 +23,8 @@ nslookup mysql-0.mysql.default.svc.cluster.local
 nslookup mysql-1.mysql.default.svc.cluster.local
 nslookup mysql-2.mysql.default.svc.cluster.local
 
+<podname><headless>.defualt.svc.cluster.local
+"mysql-0.mysql.default.svc.cluster.local" 
+
 
 
